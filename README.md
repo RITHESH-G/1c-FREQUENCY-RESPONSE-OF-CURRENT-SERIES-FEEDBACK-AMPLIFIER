@@ -21,7 +21,6 @@
 
 
 # Graph
-![66c1981e-fa98-4439-9d94-c0d7fe7b6671](https://github.com/user-attachments/assets/8c630336-6ce4-44db-bdd3-1d3ee64c1344)
 
 
 
